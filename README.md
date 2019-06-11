@@ -3,4 +3,4 @@ first repository
 
 Greetings,
 
-learing coding for the first time
+learing code for the first time
